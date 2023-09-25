@@ -48,7 +48,7 @@ def test_xkom_buying_products(browser):
         .go_to_basket() \
         .click_favourites() \
         .add_to_favourites_list() \
-        .check_favourites_list(TestData.ringke_silicone_black) \
+        .check_favourites_list(TestData.ringke_silicone_pink) \
         .click_on_basket_and_goto_order() \
         .login_and_goto_shipment() \
         .select_pickup_location() \

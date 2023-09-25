@@ -8,7 +8,7 @@ class TestData:
     iphone = "iphone 14 pro"
     shopping_list_title = "Listy zakupowe - Sklep komputerowy - x-kom.pl"
     ringke_silicone = "Ringke Silicone do iPhone 14 Pro stone"
-    ringke_silicone_black = "Ringke Silicone do iPhone 14 Pro Max black"
+    ringke_silicone_pink = "Ringke Silicone do iPhone 14 Pro pink sand"
     something_went_wrong_message = "Coś poszło nie tak, spróbuj ponownie!"
     we_could_not_find_message = 'Przepraszamy, nie znaleźliśmy wyników dla frazy „@”'
     order_store_name = "Zamówienie - Sklep komputerowy - x-kom.pl"
