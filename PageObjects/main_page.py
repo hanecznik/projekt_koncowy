@@ -37,7 +37,7 @@ class MainPage(ProjectPageBase):
         return self
 
     def show_promotions(self):
-        self.click_on_element(Selectors.MainPage.chkbox_promotions, 360)
+        # self.click_on_element(Selectors.MainPage.chkbox_promotions, 360)
         return self
 
     def order_products_by_cheapest(self):

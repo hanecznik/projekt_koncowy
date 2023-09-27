@@ -5,7 +5,7 @@ class Selectors:
     class MainPage:
         btn_accept = (By.XPATH, "//button[@class='sc-15ih3hi-0 sc-1p1bjrl-9 dRLEBj']")
         txt_search = (By.XPATH, "//input[@class='sc-suk8z4-0 iKWngG']")
-        btn_search = (By.XPATH, "//button[@class='sc-1p0xkzn-7 ihVVcs']")
+        btn_search = (By.XPATH, "//button[@class='sc-1p0xkzn-7 isynLM']")
         logo = (By.XPATH, "//img[@src='//assets.x-kom.pl/public-spa/xkom/7cbf82dd32ab7e88.svg']")
         menu_item_logout = (By.XPATH, "//*[text()='Wyloguj się']")
         menu_dropdown = (
@@ -20,8 +20,8 @@ class Selectors:
         price_menu_cheapest_item = (By.XPATH, "//div[@class='Select-menu-outer']//div[text()='Cena: od najtańszych']")
         btn_add_selected_product_to_cart = (By.XPATH, "//h3[contains(@title,'Etui / obudowa na smartfona Ringke Silicone do iPhone 14')]\
     //ancestor::div[@data-name='productCard']//button[@title='Dodaj do koszyka']")
-        btn_go_to_cart = (By.XPATH, "//div[@class='sc-1v4lzt5-12 eCkaXd']//a[text()='Przejdź do koszyka']")
-        number_of_found_items = (By.XPATH, "//span[@class='sc-dntoh-3 kTsXsi']")
+        btn_go_to_cart = (By.XPATH, "//div[@class='sc-1v4lzt5-12 ctESVK']//a[text()='Przejdź do koszyka']")
+        number_of_found_items = (By.XPATH, "//span[@class='sc-dntoh-3 PBpWe']")
         not_found_message = (By.XPATH, "//div[@class='sc-4t5dgr-1 eIsJYz']")
         your_account_icon = (By.XPATH, "//div[text()='Twoje konto']")
 
